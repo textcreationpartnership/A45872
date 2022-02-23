@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Information for the Earl and Countess of Southerland and their children, as followeth</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45872</idno>
+            <idno type="STC">Wing I164M</idno>
+            <idno type="STC">ESTC R222605</idno>
+            <idno type="EEBO-CITATION">99833759</idno>
+            <idno type="PROQUEST">99833759</idno>
+            <idno type="VID">38237</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38237)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2209:10a)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Information for the Earl and Countess of Southerland and their children, as followeth</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1693?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Concerns the right of Jean Wemyss, Countess of Sutherland, to the estate of her father, David Wemyss, second Earl of Wemyss.</note>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+                  <note>With: Unto His Grace Their Majesties high commissioner and the Right Honourable the Estates of Parliament: Jean Countess of Sutherland, and the Earl of Sutherland, her husband for his interest. [S.l. : s.n., 1693?]</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>[Wemyss, Jean, --  Countess of Sutherland, d. 1715] --  Early works to 1800.</term>
+               <term>Sutherland, George Gordon, --  Earl of, 1633-1703 --  Early works to 1800.</term>
+               <term>Wemyss, David, --  Earl of, 1610-1679 --  Early works to 1800.</term>
+               <term>Inheritance and succession --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:38237:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:38237:1"/>
+            <head>
+               <hi>INFORMATION</hi> For the Earl and Counteſs of <hi>Southerland</hi> and their Children, as followeth.</head>
+            <p n="1">I. THat the ſaid Counteſs is the Eldeſt Daughter of <hi>David</hi> late Earl of <hi>Weymſs,</hi> who died in the year 1679. without Male Iſſue; whereby the ſaid Counteſs hath undoubted legal Right for ſucceeding in the Eſtate and Honours of her ſaid Father the Earl of <hi>Weymſs,</hi> according to the Laws and Cuſtoms of the Kingdom of <hi>Scotland,</hi> which allows not a Father to Diſinherit his Eldeſt Lawful Child, and to prefer a Younger to their Inheri<g ref="char:EOLhyphen"/>tance, unleſs the Eldeſt were proved a Fool, or a Perſon groſly Vitious, or Pro<g ref="char:EOLhyphen"/>fligate, or had Married Diſhonourably, to Diſgrace the Family, and contrary to Will of their Parents; none of which can be alledged againſt the ſaid Counteſs, who is not accounted a Fool, nor hath done any thing which will ſpeak her Viti<g ref="char:EOLhyphen"/>ous or Profligate: And for her Matches, firſt and laſt, the Family hath no Diſ<g ref="char:EOLhyphen"/>honour by them, and ſhe engaged in them, by the ſpecial command of her Father.</p>
+            <p n="2">II. It is to be conſidered in the 2<abbr>
+                  <hi>d.</hi>
+               </abbr> place, that the late Earl of <hi>Weymſs</hi> did not Purchaſe his Eſtate himſelf, but received it from his Anceſtors for ſeveral hun<g ref="char:EOLhyphen"/>dreds of years: So that by the Ancient Cuſtoms of the Nation, he had no Right to diſpoſe of that Eſtate, or put it by his Lawful Heir, ſince it was none of his own Purchaſe.</p>
+            <p n="3">III: Thirdly, It is to be conſidered, that the ſaid Earl of <hi>Weymſs</hi> did in <hi>June</hi> or <hi>July</hi> 1649. Diſpone all his Eſtate and Honours (failing of Lawful Heirs of his own Body) to the ſaid Counteſs, without any Clauſe of Revocation; and Entailed it not only to her, but to any Child of hers, Son or Daughter (the Eldeſt being firſt in the Proviſion) upon condition they aſſume the Name, and hear the Coat of Arms belonging to the Family of <hi>Weymſs:</hi> Yet in a little time after, the ſaid Counteſs her Mother being Sick, and on her death Bed; did at the ſaid Earl's deſire, requeſt her Daughter (upon the ſaid Earl of <hi>VVeymſs</hi> his Importunity) to give up to his Cuſtody the ſaid Diſpoſition and Entail, made in the ſaid Counteſs her Favours, becauſe he did ſolemnly Swear, that he ſhould never deſtroy the ſame, but kept it intire for the behoove of the ſaid Counteſs, and her Children failing of his Lawful Sons, of whom he had then two alive. The ſaid Counteſs being loath to diſoblige her Father, or diſobey her then dying Mo<g ref="char:EOLhyphen"/>ther, brought the ſaid Entail and gave it into her Mothers hands, who ſaid to the ſaid Earl of <hi>VVeymſs,</hi> My Daughter and I Truſt you with this Evident of hers, upon condition you will not deſtroy it, nor do any thing in prejudice of it: That in caſe you have no Male Iſſue at your Death, ſhe and hers may be vertue of this Deed ſucceed to you in your Eſtate and Honours; to which the ſaid Earl anſwered, and Swore, That as he ſhould anſwer to God, he would perform it; and wiſhed, that if ever he ſhould make a Right, or other Entail to any other perſon in preju<g ref="char:EOLhyphen"/>dice of the ſaid Counteſs, he wiſhed the perſon might be Accurſed, and the Fa<g ref="char:EOLhyphen"/>mily might Periſh: This was done in the preſence of the late Lord <hi>Burlie,</hi> the late Lord <hi>Ruthvan,</hi> and the Laird of <hi>Feyngies,</hi> Mr. <hi>Hooper,</hi> and divers others,
+<pb n="2" facs="tcp:38237:2"/>My Lady <hi>Ruthvan</hi> and Mrs. <hi>Law,</hi> who are yet alive, were alſo preſent: So the ſaid Earl Thanked his Daughter for her Confidence in him; and anſwered her, That he would not abuſe his Truſt.</p>
+            <p>Notwithſtanding of this, the ſaid Earl having Married twice after the Deceaſe of his firſt Lady; and having by his third Lady ſeveral Sons and one Daughter, was prevailed with by his third Lady, after the death of all her Sons, to make a new Entail to his Daughter by her, in the year 1671 or 1672. by which he cut off his Eldeſt Daughter the ſaid Counteſs and her Poſterity (as if they had been Baſtards) from having any Right Title or Claim to ſucceed in his Family; which which was a Deed ſo contrary to the Law and Cuſtoms of the Nation, and to Equity, Reaſon, and his ſolemn Oaths; which it ſeems he had forgotten, it be<g ref="char:EOLhyphen"/>ing more then twenty years, from the time he made thoſe Oaths and Promiſes, to that year in which he broke them, by making this new Entail to his youngeſt Daughter Lady <hi>Margaret VVeymſs,</hi> whom he gave in Marriage to Sir <hi>James Weymſs,</hi> who by the Duke of <hi>Monmouth</hi>'s Moyen with the King, was afterwards made Lord <hi>Bruntiſland.</hi>
+            </p>
+            <p>It is alſo to be conſidered, That the ſaid Counteſs did Addreſs her ſelf to her ſaid Father the Earl of <hi>Weymſs,</hi> before this New Entail to her prejudice was com<g ref="char:EOLhyphen"/>pleated, or her Siſter Married, proferring to his Lordſhip, That it he would continue the former Entail, and not alter it to the prejudice of her and her Chil<g ref="char:EOLhyphen"/>dren, that ſhe would procure for her Siſter the ſaid Lady <hi>Margaret,</hi> one of the Nobleſt Matches of the Kingdom, who would promote her to greater Honours and Eſtate than the Family of <hi>Weymſs</hi> could render, and who would be ſatisfied with the Lordſhip of <hi>Bothwell,</hi> which was a part of the Earl of <hi>Forfars</hi> Eſtate as a ſufficient Portion with the ſaid Lady <hi>Margaret,</hi> and the reſt of the ſaid Earls Eſtate might go as Addition to the Eſtate of <hi>Weymſs;</hi> ſo that the ſaid Counteſs and he might ſucceed in that Family. But the ſaid Earl of <hi>Weymſs</hi> told his Daughter. That he behooved to make this New Entail to his Youngeſt Daugh<g ref="char:EOLhyphen"/>ter, elſe he could not pleaſe his Wife nor have peace at Home: Saying alſo, That he could not contend with his Wife and her Friends, being now broken with Grief for the Death of his Ten Sons, and being Infirm with Old Age, being then Sixty and two Years, and was truly failed both in Memory and Judgement ſo, that when the ſaid Counteſs deſired him to Remember the Promiſes and Oaths that he made to her and her Mother when Dying, that it might not trouble him when he came to dye, if he ſhould break theſe Oaths and Promiſes: Upon which he knocked upon his Breaſt and ſaid, Oh Daughter you wound me to the Heart in putting me in mind of thoſe things which I had abſolutely forgot; and ſo run out of the Room in a great diſturbance: And he was ſo prevailed with by his Lady and the ſaid Lord <hi>Brunt-Iſland,</hi> who was then preſent with him, that they would never ſuffer the ſaid Counteſs to have acceſs to ſpeak to him any more, leſt his Heart ſhould have relented towards her: Yea, they took him ſworn that he ſhould not ſo much as receive a Letter from his Eldeſt Daughter, who did writ to him &amp; to his Lady, but the Letters were ſent back without being opened: And when the ſaid Earl of <hi>Weymſs</hi> went on to paſs the Signature he had made to his Youngeſt Daughter before the Kings Exchequer, notwithſtanding that one compeared from the Earl of <hi>Forfar</hi> and his Friends, requiting up a ſight of the ſaid Signature be<g ref="char:EOLhyphen"/>fore it ſhould paſs, as being the Eldeſt Son of the Eldeſt Daughter of the ſaid Earl of <hi>Weymſs</hi> yet contrair to all Law this was denyed him, which made the ſaid Earl of <hi>Forfars</hi> Agent proteſt for Remedy in Law, before Seſſion or Parlia<g ref="char:EOLhyphen"/>ment: But the Earl of <hi>Rothoſs,</hi> being then Chancellor and Uncle to the ſaid Lady <hi>Margaret,</hi> would not ſuffer the ſaid Agent to have the Benefite for the Earl of <hi>Forfar,</hi> that the Law did allow in ſuch Caſes, but haſtned the paſſing
+<pb n="3" facs="tcp:38237:2"/>of the ſaid Signature before it was three days affixed upon the VVall, accord<g ref="char:EOLhyphen"/>ing to the uſual Cuſtome. Therefore the ſaid Counteſs of <hi>Sutherland</hi> has her Recourſe to the Kings Majeſtie, Commiſſioner, and to the High Court of Parliament, hoping that by his Princely Goodneſs and their Juſtice they will cognoce the matter, ſo as to remedy the wrongs done to the ſaid Counteſs and her Childron, and to preſerve the legal Succeſſion in the right Line in this Antient Family (being Lineally deſcended from the ſecond Son of the Famous <hi>Mackduff</hi> Thaine of <hi>Fife,</hi> who reſtored King <hi>Malcolme Cram<g ref="char:EOLhyphen"/>mone</hi> to the Crown of <hi>Scotland,</hi> and Killed the Uſurper <hi>Mackbeth</hi>) ſo the ſaid Counteſs and Earl of <hi>Southerland,</hi> with the Earl of <hi>Forfar</hi> and Lord <hi>Strath<g ref="char:EOLhyphen"/>naver,</hi> do humbly Implore the Juſtice of the ſaid High Court of Parliament in their behalf, it being not Juſtifiable nor Lawful to ſuffer a man in his old Age, having then loſt his Memory and Judgement, to wrong his Lawful Suc<g ref="char:EOLhyphen"/>ceſſor, contrair to the firſt Entail made in her Favours, and the Oaths made by the ſaid Earl, to creat a Confidence in his Daughter, to give up the Entail made in her Favours to him: So that this new Entail made to her preju<g ref="char:EOLhyphen"/>dice, is an Act of great Rigour and Injuſtice, and without any Precedent or Ex<g ref="char:EOLhyphen"/>ample, ſince by the ſaid Entail Strangers are preferred to her and her Children, and ſhe and hers totally cut off from ſucceeding therein: And that by the falſe Accuſations made of the ſaid Counteſs to her Father.</p>
+            <p>It is alſo to be conſidered, That the ſaid Counteſs has a Right and Juſt Claim unto Conſiderable Sums of Money that were due to her ſecond Brother <hi>Alex<g ref="char:EOLhyphen"/>ander Weymſs</hi> and to her Siſter Lady <hi>Mary,</hi> as Bands of Proviſion made to them and their Heirs, be the Deceas'd Earl of <hi>Weymſs</hi> there Father, who made thoſe Proviſions for them before he Married a ſecond Lady, and delivered them to the Cuſtody of <hi>Robert</hi> Lord <hi>Burly</hi> their Grandfather, to be kept for the Be<g ref="char:EOLhyphen"/>nefite of them and their Heirs, which Bonds will amount to by Principal, and Annual rent to the Sum of 15000 pound <hi>Sterling,</hi> which the ſaid Counteſs as Siſter German, and Heir to the ſaid <hi>Alexander</hi> and Lady <hi>Mary.</hi> Intreats a Sen<g ref="char:EOLhyphen"/>tence of Parliament, againſt her ſaid Siſter Lady <hi>Margaret Weymſs,</hi> who poſ<g ref="char:EOLhyphen"/>ſeſſes the whole Eſtate of <hi>VVeymſs:</hi> And has given the ſaid Counteſs no Satis<g ref="char:EOLhyphen"/>faction for the ſaids Bonds; nor any part of her ſaid Fathers Eſtate; all that ſhe Received being only her Mothers Portion, with a certain Sum, that her Aunt the Deceaſed Viſcounteſs of <hi>Stormont</hi> left her, which was payed to the De<g ref="char:EOLhyphen"/>ceaſed Earl of <hi>Angus,</hi> as Portion with his ſaid Lady, ſhe having Brothers then alive.</p>
+            <p>It is alſo to be Conſidered, That the Eſtate of the Earledom of <hi>VVeymſs</hi> is conſiderable enough, to ſuffer Diviſion betwixt the two Siſters; ſince the caſual Rent of Coal and Salt is Reckened to be ſixty Thouſand Merks by year: And hath Rendred no leſs (as is informed) theſe two years bygone, notwithſtand<g ref="char:EOLhyphen"/>ing the VVar: So that in a peaceable time, it might render much more. This is over and beſides the Land Rent which is conſiderable enough, as is well known to all the Noblemen and Gentlemen in <hi>Fife.</hi>
+            </p>
+            <p>It is alſo to be conſidered, That the Delators the ſaid Lady met with from the Lord Chancellor <hi>Rothes</hi> in <hi>December</hi> 1679 and <hi>June</hi> 1680, has done her great Prejudice, for then there was alive the VVriter of the Tailzie and two of the VVitneſſes, and ſeveral of thoſe perſons that were preſent, and heard the Terms upon which ſhe committed the ſaid Entail to her Fathers Cuſtody; who are all now Dead, ſave two VVomen. As alſo the VVriter and three VVit<g ref="char:EOLhyphen"/>neſſes of the Bonds were then alive, who for any thing ſhe knows now two of them are Dead, and a 3d out of the Country, which makes the Diſcuſſing of the ſaid Proceſs more neceſſary, leſt ſhe drop off her ſelf being now Old and In<g ref="char:EOLhyphen"/>firm.</p>
+            <pb n="4" facs="tcp:38237:3" rendition="simple:additions"/>
+            <p>It is alſo to be conſidered. That Unjuſt Methods were uſed to alienat the Af<g ref="char:EOLhyphen"/>fection of the ſaid Earl of <hi>Weymſs</hi> from his Eldeſt Daughter, whom they made him believe had accuſed him to the King as a Perjured and Unnatural Man, by his breaking his Entail to her, and giving it to his Youngeſt Daughter: But in ef<g ref="char:EOLhyphen"/>fect the ſaid Lady never Addreſt her ſelf to the King till after her Father was two Months dead, having ſtill hope that her Father would repent of what he had done to her prejudice before he dyed; which he did by a Writ under his Hand four dayes before he dyed, as the two Bayliffs of the Town of <hi>Weymſs</hi> told the ſaid Counteſs ſo ſoon as ſhe returned from <hi>London,</hi> after the ſaid Earl his Death; Declaring to her, That he called for them three dayes before he dyed, and told them, That now his Conſcience ſmote him for what he had done to prejudiſe his Eldeſt Daughter, who was ever Dutiful and Kind to him: Therefore he de<g ref="char:EOLhyphen"/>ſired them to ſhew her, that he had Revocked what he had done againſt her, and had Reponed her to the Entail made in her Favours, and that he had incloſed This in a Letter to her, which he had Sealled and delivered to a near Relation whom he had taken Sworn that they ſhould not deſtroy nor open that Letter, but deliver it Safe and Intire into the Hands of his Eldeſt Daughter, which is not yet done. Yea, the late Lord <hi>Brunt-Iſland</hi> and his Friends made the King believe, That the Earl of <hi>Weymſs</hi> had no Daughter alive but the ſaid Lady <hi>Margaret,</hi> and that the ſaid Counteſs was only his Siſter: So that the King was ſurprized when the ſaid Counteſs Addreſt her ſelf to him for Reparation; and told her, That he was Mis-informed, and was ſorry ſhe was ſo long a coming to ſeek Re<g ref="char:EOLhyphen"/>dreſs, for now he heard it was too late.</p>
+            <p>Another Artifice uſed by the Adverſaties of the ſaid Counteſs, is, To make the World believe that the Eſtate of <hi>Weymſs</hi> was ſo ruined with Debts, that the Lord <hi>Brunt-Iſland</hi> and the late Counteſs of <hi>Weymſs</hi> did recover the ſame by the great Sums of Money they brought to the Family. <hi>Anſ:</hi> 1. There was not ſo great Burdens on the Family as is ſuggeſted; and whatever was on it of Debt, was brought on by the publick Calamity in the Uſurpers time: For which the Coun<g ref="char:EOLhyphen"/>teſs of <hi>Sutheeland</hi> ſhould not be puniſhed, for it was in good Condition at her Mothers Death. And as to the Sums of Money brought to the Family by the ſaid <hi>Brunt-Iſland,</hi> it is but falſe Alledgance, which the Earl of <hi>Weymſs</hi> was indu<g ref="char:EOLhyphen"/>ced to acknoweldge to give as pretence to the ſaid Lord for his ſucceeding in the Family to Defraud his Eldeſt Daughter: For it is nottarly known that the ſaid Lord brought no Money to the Family but thirty thouſand Merks, which purcha<g ref="char:EOLhyphen"/>ſed the Caſtle of <hi>Bruntiſland</hi> and the Lands about it: For the Leaſes that the Ge<g ref="char:EOLhyphen"/>neral Artillery had in <hi>England,</hi> did ſoon expire after the Lord <hi>Brunt Iſland</hi> Mar<g ref="char:EOLhyphen"/>ried the ſaid Lady <hi>Margaret Weymſs.</hi> And for the Counteſs of <hi>Weymſs</hi> paſſing ſo much Debt of my Lord <hi>Weymſs-</hi> Its Anſwered, That ſhe did it with his own Rents, and took Aſſignations blank to all theſe Bonds; by which ſhe deſigned to diſpoſe of that Ancient Family to whom ſhe pleaſed, and to defraud her Lords Eldeſt Daughter tottally.</p>
+            <pb n="1" facs="tcp:38237:3" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
